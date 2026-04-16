@@ -8,7 +8,7 @@ namespace Vision_motion.Interface
 {
     public class Interface
     {
-      
+      //----
             private static bool _trigger;
             public static bool Trigger // Team Motion Start Trigger = true ,sau khi trigger trong 1 khoảng thời gian delay sẽ lật về false
             {
